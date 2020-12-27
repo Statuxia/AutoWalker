@@ -27,5 +27,5 @@ https://www.virustotal.com/gui/file/a63eccd77af1455320b5abfa472119cadd44947e792a
 
 exe файл можно запустить ТОЛЬКО на 64 битной системе.
 
-
-FQGM
+--------------------
+2020 - 2021 made by FQGM

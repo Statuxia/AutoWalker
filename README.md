@@ -24,6 +24,7 @@ https://youtu.be/ZPUanAJcUWE
 --------------------
 
 https://www.virustotal.com/gui/file/a63eccd77af1455320b5abfa472119cadd44947e792ae20e062d4d8568eaa513/detection - Virustotal exe файла.
+
 exe файл можно запустить ТОЛЬКО на 64 битной системе.
 
 
